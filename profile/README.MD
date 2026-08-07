@@ -94,7 +94,7 @@
 
 <table>
   <tr>
-    <td align="center" width="140">
+    <td align="center">
       <a href="https://github.com/Faraysz">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="atma.png">
@@ -104,7 +104,7 @@
         <sub><b>Atma</b></sub>
       </a>
     </td>
-    <td align="center" width="140">
+    <td align="center" >
       <a href="https://github.com/yowput">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="putra.png">
@@ -114,7 +114,7 @@
         <sub><b>Putra</b></sub>
       </a>
     </td>
-    <td align="center" width="140">
+    <td align="center" >
       <a href="https://github.com/FeniksZharovik">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="feniks.png">
@@ -124,11 +124,11 @@
         <sub><b>Feniks</b></sub>
       </a>
     </td>
-    <td align="center" width="140">
+    <td align="center" >
       <a href="https://github.com/adeliaputri7">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="adel.svg">
-          <img src="adel.svg"  alt="Adel">
+          <source media="(prefers-color-scheme: dark)" srcset="adel.png">
+          <img src="adel.png"  alt="Adel">
         </picture>
         <br>
         <sub><b>Adel</b></sub>
