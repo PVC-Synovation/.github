@@ -39,6 +39,7 @@
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat">
         <img src="https://img.shields.io/badge/Private-red?style=flat">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
       </p>
       <p>Sistem surat menyurat digital untuk internal perusahaan. Memudahkan pengelolaan arsip surat, disposisi, dan tracking status surat secara real-time.</p>
       <a href="https://github.com/PVC-Synovation/E-Office-Correspondence">
@@ -95,7 +96,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Faraysz">
-        <img src="https://github.com/Faraysz.png?size=100" width="100px" alt="Nama Anggota 1"/><br>
+        <img src="source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg"/><br>
         <sub><b>Faraysz.Dev</b></sub>
       </a><br>
       <sub>Lead Developer</sub>
@@ -103,21 +104,21 @@
     <td align="center">
       <a href="https://github.com/yowput">
         <img src="https://github.com/yowput.png?size=100" width="100px" alt="Nama Anggota 2"/><br>
-        <sub><b>Nama Anggota 2</b></sub>
-      </a><br>
-      <sub>Backend Developer</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/FeniksZharovik">
-        <img src="https://github.com/FeniksZharovik.png?size=100" width="100px" alt="Nama Anggota 3"/><br>
-        <sub><b>Nama Anggota 3</b></sub>
+        <sub><b>Maybe.Put</b></sub>
       </a><br>
       <sub>Mobile Developer</sub>
     </td>
     <td align="center">
+      <a href="https://github.com/FeniksZharovik">
+        <img src="https://github.com/FeniksZharovik.png?size=100" width="100px" alt="Nama Anggota 3"/><br>
+        <sub><b>Cak.Feniks</b></sub>
+      </a><br>
+      <sub>Backend Developer</sub>
+    </td>
+    <td align="center">
       <a href="https://github.com/adeliaputri7">
         <img src="https://github.com/adeliaputri7.png?size=100" width="100px" alt="Nama Anggota 4"/><br>
-        <sub><b>Nama Anggota 4</b></sub>
+        <sub><b>Adel.lyly</b></sub>
       </a><br>
       <sub>UI/UX Designer</sub>
     </td>
