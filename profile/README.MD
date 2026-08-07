@@ -93,14 +93,16 @@
 ## 👥 Tim Kami
 
 <table>
-  <tr>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="atma.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="putra.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="feniks.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="adel.svg" />
+        <img alt="PVC-Synovation's GitHub profile" src="atma.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="putra.svg" />
+        <img alt="PVC-Synovation's GitHub profile" src="putra.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="feniks.svg" />
+        <img alt="PVC-Synovation's GitHub profile" src="feniks.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="adel.svg" />
+        <img alt="PVC-Synovation's GitHub profile" src="adel.svg" />
     </picture>
-  </tr>
 </table>
 
 ---
