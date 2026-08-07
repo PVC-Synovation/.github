@@ -95,9 +95,10 @@
 <table>
   <tr>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-        <img alt="faraysz's GitHub profile" src="dark_mode.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="atma.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="putra.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="feniks.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="adel.svg" />
     </picture>
   </tr>
 </table>
