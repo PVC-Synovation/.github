@@ -93,16 +93,48 @@
 ## 👥 Tim Kami
 
 <table>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="atma.svg" />
-        <img alt="PVC-Synovation's GitHub profile" src="atma.svg" />
-        <source media="(prefers-color-scheme: dark)" srcset="putra.svg" />
-        <img alt="PVC-Synovation's GitHub profile" src="putra.svg" />
-        <source media="(prefers-color-scheme: dark)" srcset="feniks.svg" />
-        <img alt="PVC-Synovation's GitHub profile" src="feniks.svg" />
-        <source media="(prefers-color-scheme: dark)" srcset="adel.svg" />
-        <img alt="PVC-Synovation's GitHub profile" src="adel.svg" />
-    </picture>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/Faraysz">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="atma.svg">
+          <img src="atma.svg" width="100" alt="Atma">
+        </picture>
+        <br>
+        <sub><b>Atma</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://github.com/username-putra">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="putra.svg">
+          <img src="putra.svg" width="100" alt="Putra">
+        </picture>
+        <br>
+        <sub><b>Putra</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://github.com/username-feniks">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="feniks.svg">
+          <img src="feniks.svg" width="100" alt="Feniks">
+        </picture>
+        <br>
+        <sub><b>Feniks</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://github.com/username-adel">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="adel.svg">
+          <img src="adel.svg" width="100" alt="Adel">
+        </picture>
+        <br>
+        <sub><b>Adel</b></sub>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
