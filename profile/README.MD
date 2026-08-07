@@ -97,38 +97,38 @@
     <td align="center" width="140">
       <a href="https://github.com/Faraysz">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="atma.svg">
-          <img src="atma.svg" width="100" alt="Atma">
+          <source media="(prefers-color-scheme: dark)" srcset="atma.png">
+          <img src="atma.png"  alt="Atma">
         </picture>
         <br>
         <sub><b>Atma</b></sub>
       </a>
     </td>
     <td align="center" width="140">
-      <a href="https://github.com/username-putra">
+      <a href="https://github.com/yowput">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="putra.svg">
-          <img src="putra.svg" width="100" alt="Putra">
+          <source media="(prefers-color-scheme: dark)" srcset="putra.png">
+          <img src="putra.png"  alt="Putra">
         </picture>
         <br>
         <sub><b>Putra</b></sub>
       </a>
     </td>
     <td align="center" width="140">
-      <a href="https://github.com/username-feniks">
+      <a href="https://github.com/FeniksZharovik">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="feniks.svg">
-          <img src="feniks.svg" width="100" alt="Feniks">
+          <source media="(prefers-color-scheme: dark)" srcset="feniks.png">
+          <img src="feniks.png"  alt="Feniks">
         </picture>
         <br>
         <sub><b>Feniks</b></sub>
       </a>
     </td>
     <td align="center" width="140">
-      <a href="https://github.com/username-adel">
+      <a href="https://github.com/adeliaputri7">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="adel.svg">
-          <img src="adel.svg" width="100" alt="Adel">
+          <img src="adel.svg"  alt="Adel">
         </picture>
         <br>
         <sub><b>Adel</b></sub>
