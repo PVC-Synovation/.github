@@ -94,34 +94,11 @@
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/Faraysz">
-        <img src="source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg"/><br>
-        <sub><b>Faraysz.Dev</b></sub>
-      </a><br>
-      <sub>Lead Developer</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/yowput">
-        <img src="https://github.com/yowput.png?size=100" width="100px" alt="Nama Anggota 2"/><br>
-        <sub><b>Maybe.Put</b></sub>
-      </a><br>
-      <sub>Mobile Developer</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/FeniksZharovik">
-        <img src="https://github.com/FeniksZharovik.png?size=100" width="100px" alt="Nama Anggota 3"/><br>
-        <sub><b>Cak.Feniks</b></sub>
-      </a><br>
-      <sub>Backend Developer</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/adeliaputri7">
-        <img src="https://github.com/adeliaputri7.png?size=100" width="100px" alt="Nama Anggota 4"/><br>
-        <sub><b>Adel.lyly</b></sub>
-      </a><br>
-      <sub>UI/UX Designer</sub>
-    </td>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+        <img alt="faraysz's GitHub profile" src="dark_mode.svg" />
+    </picture>
   </tr>
 </table>
 
