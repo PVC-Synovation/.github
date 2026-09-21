@@ -98,7 +98,7 @@
       <a href="https://github.com/Faraysz">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="atma.png">
-          <img src="atma.png"  alt="Atma">
+          <img src="https://raw.githubusercontent.com/PVC-Synovation/.github/main/atma.png" alt="Atma">
         </picture>
         <br>
         <sub><b>Atma</b></sub>
