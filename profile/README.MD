@@ -121,7 +121,7 @@
           <img src="feniks.png"  alt="Feniks">
         </picture>
         <br>
-        <sub><b>Feniks</b></sub>
+        <sub><b>Willy</b></sub>
       </a>
     </td>
     <td align="center" >
@@ -136,14 +136,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 📊 Statistik Organisasi
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PVC-Synovation&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
-</p>
 
 ---
 
