@@ -139,10 +139,6 @@
 
 ---
 
-📖 Baca [CONTRIBUTING.md](./CONTRIBUTING.md) untuk panduan lengkap.
-
----
-
 ## 📊 Statistik Organisasi
 
 <p align="center">
