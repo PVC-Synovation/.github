@@ -9,7 +9,7 @@
 <!-- Badge -->
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square">
 <img src="https://img.shields.io/badge/Members-4-blue?style=flat-square">
-<img src="https://img.shields.io/badge/Repos-2-orange?style=flat-square">
+<img src="https://img.shields.io/badge/Repos-7-orange?style=flat-square">
 <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square">
 
 <br><br>
